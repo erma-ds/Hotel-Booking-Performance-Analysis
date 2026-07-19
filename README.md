@@ -181,7 +181,7 @@ Hotel-Booking-Performance-Dashboard
 │   └── Hotel Booking Dashboard.twbx
 │
 ├── Dataset
-│   └── Hotel Transactions 2024.xlsx
+│   └── hotel_transactions_2024.xlsx
 │
 ├── Images
 │   ├── Dashboard1.png
@@ -190,8 +190,8 @@ Hotel-Booking-Performance-Dashboard
 └── README.md
 ```
 
----
 
+---
 
 # 📌 Project Highlights
 
@@ -212,4 +212,3 @@ Hotel-Booking-Performance-Dashboard
 ✔ Room Performance Analysis
 
 ✔ Business Storytelling
-
